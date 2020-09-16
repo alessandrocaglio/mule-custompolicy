@@ -1,0 +1,11 @@
+id: mypolicy
+name: mypolicy
+description: Mia policy
+category: Custom
+type: custom
+resourceLevelSupported: true
+encryptionSupported: false
+standalone: true
+requiredCharacteristics: []
+providedCharacteristics: []
+configuration: []
